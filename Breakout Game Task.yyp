@@ -35,7 +35,9 @@
   "name":"Breakout Game Task",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"spr_bat","path":"sprites/spr_bat/spr_bat.yy",},},
+    {"id":{"name":"spr_Ball","path":"sprites/spr_Ball/spr_Ball.yy",},},
+    {"id":{"name":"spr_Bat","path":"sprites/spr_Bat/spr_Bat.yy",},},
+    {"id":{"name":"spr_Brick","path":"sprites/spr_Brick/spr_Brick.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

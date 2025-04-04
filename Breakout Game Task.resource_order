@@ -16,5 +16,8 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"spr_Ball","order":2,"path":"sprites/spr_Ball/spr_Ball.yy",},
+    {"name":"spr_Brick","order":1,"path":"sprites/spr_Brick/spr_Brick.yy",},
+  ],
 }
